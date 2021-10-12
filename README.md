@@ -16,6 +16,10 @@ Requirement:
 
 -dataset : qald-9-train-multilingual.json
 
+How to run:
+
+> python ner_comparison.py
+
 
 About "ner_comparison.py"
 
