@@ -1,3 +1,14 @@
+Description:
+
+Named Entity Recognition:
+    Named entity recognition or entity extraction is technique in Natural Language processing that finds named entities in text and classifies them to predefined groups(Person,Organization,Location etc.). Named entities are important sets of elements to understand given text. Most of entities comes from part of speech(noun,verb,adjactive) but Nouns are essential to understand subtle details in text.Named Entity Recognition (NER) is a process where a sentence or a chunk of text is parsed through to find entities that can be put under categories like names,places and organizations. Find more details here: "https://en.wikipedia.org/wiki/Named-entity_recognition"
+    
+Named Entity Disambiguation:
+    In natural language processing, entity linking, also referred to as named-entity linking (NEL),[1] named-entity disambiguation (NED), named-entity recognition and disambiguation (NERD) or named-entity normalization (NEN)[2] is the task of assigning a unique identity to entities (such as famous individuals, locations, or companies) mentioned in text. For example, given the sentence "Paris is the capital of France", the idea is to determine that "Paris" refers to the city of Paris and not to Paris Hilton or any other entity that could be referred to as "Paris". In this project, entity linking is performed on dbpedia.Find more details here:"https://en.wikipedia.org/wiki/Entity_linking"
+
+Overview:
+
+  This project is just for study purpose. In this project,I've used different tools to generate named entities from text. You can find different files for this tools(nltk,spacy,textblob). Furthermore, I've selected QALD dataset to check output of these three tools. Thsere are many questions in dataset that contains named entities. I've passed each question through nltk,spacy and textblob and performed entity disambiguation or entity linking for each and every entity. Also, from dataset I've found perfect entities that are present in every question and based on that I've computed precision and recall for nltk,spacy and textblob. 
 
 Requirement:
 
