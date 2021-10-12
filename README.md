@@ -1,7 +1,10 @@
 
 Requirement:
+
 -python packages: nltk,spacy,textblob,json,SPARQLWrapper,urllib,bs4
+
 -dataset : qald-9-train-multilingual.json
+
 
 About "ner_comparison.py"
 -Dataset used here is from Question Answering over Linked Data (QALD) "http://qald.aksw.org/", download it from here: "https://2018.nliwod.org/challenge" (~Training Data)
