@@ -8,7 +8,7 @@ Named Entity Disambiguation:
 
 Overview:
 
-  This project is just for study purpose. In this project,I've used different tools to generate named entities from text. You can find different files for this tools(nltk,spacy,textblob). Furthermore, I've selected QALD dataset to check output of these three tools. Thsere are many questions in dataset that contains named entities. I've passed each question through nltk,spacy and textblob and performed entity disambiguation or entity linking for each and every entity. Also, from dataset I've found perfect entities that are present in every question and based on that I've computed precision and recall for nltk,spacy and textblob. 
+  This project is just for study purpose. In this project,I've used different tools to generate named entities from text. You can find different files for this tools(nltk,spacy,textblob). Furthermore, I've selected QALD dataset to check output of these three tools. There are many questions in dataset that contains named entities. I've passed each question through nltk,spacy and textblob and performed entity disambiguation or entity linking for each and every entity. Also, from dataset I've found perfect entities that are present in every question and based on that I've computed precision and recall for nltk,spacy and textblob. 
 
 Requirement:
 
