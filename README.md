@@ -2,7 +2,6 @@
 Requirement:
 
 -python packages: nltk,spacy,textblob,json,SPARQLWrapper,urllib,bs4
-
 -dataset : qald-9-train-multilingual.json
 
 
