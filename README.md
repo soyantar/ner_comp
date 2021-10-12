@@ -1,7 +1,6 @@
 
 Requirement:
 -python packages: nltk,spacy,textblob,json,SPARQLWrapper,urllib,bs4
--need to download : nltk.download('punkt')
 -dataset : qald-9-train-multilingual.json
 
 About "ner_comparison.py"
